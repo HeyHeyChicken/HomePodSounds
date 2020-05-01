@@ -17,10 +17,10 @@ This skill will allow your assistant to play the system sounds of the HomePod.
 
 ## Features
 
-- This skill will allow your assistant to play the system sounds of the HomePod in theses cases :
-1) Boot
-2) Start listening
-3) Error
+This skill will allow your assistant to play the system sounds of the HomePod in theses cases :
+- Boot
+- Start listening
+- Error
 
 ## Support and contribution
 
