@@ -1,0 +1,16 @@
+{
+  "name": "nova-homepod-sounds",
+  "version": "1.0.0",
+  "description": "This skill will allow your assistant to play the system sounds of the HomePod.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeyHeyChicken/NOVA-HomePod-Sounds.git"
+  },
+  "author": "Antoine Duval",
+  "license": "SEE LICENSE IN LICENSE FILE",
+  "bugs": {
+    "url": "https://github.com/HeyHeyChicken/NOVA-HomePod-Sounds/issues"
+  },
+  "homepage": "https://github.com/HeyHeyChicken/NOVA-HomePod-Sounds#readme"
+}
