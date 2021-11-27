@@ -1,10 +1,8 @@
 <div align="center">
-<a href="//nova-assistant.com" rel="nofollow">
-<img src="https://github.com/HeyHeyChicken/NOVA-HomePod-Sounds/blob/master/resources/nova-logo.svg" alt="NOVA" width="300">
-</a>
-
-**NOVA - HomePod Sounds** is a skill for your [NOVA](//github.com/HeyHeyChicken/NOVA) assistant.<br>
-This skill will allow your assistant to play the system sounds of the HomePod.
+    <img src="https://github.com/HeyHeyChicken/NOVA/blob/master/resources/github-logo.svg" alt="NOVA" width="300">
+    
+    **NOVA - HomePod Sounds** is a skill for your [NOVA](//github.com/HeyHeyChicken/NOVA) assistant.<br>
+    This skill will allow your assistant to play the system sounds of the HomePod.
 </div>
 
 <br>
