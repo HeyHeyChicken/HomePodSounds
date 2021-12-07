@@ -24,5 +24,5 @@ MAIN.Socket.on("none", function() {
 /* ############################################################################################ */
 
 function play(_name){
-    MAIN.PlayAudio(MAIN.App.server.url + "/HeyHeyChicken_NOVA-HomePod-Sounds/mp3/" + _name + ".mp3", 1, 100, false, true);
+    MAIN.PlayAudio(MAIN.App.server.url + "/260458273/mp3/" + _name + ".mp3", 1, 100, false, true);
 }
