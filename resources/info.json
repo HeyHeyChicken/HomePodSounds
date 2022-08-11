@@ -1,0 +1,11 @@
+{
+	"worksOffline" : true,
+	"description" : {
+		"fr-FR": "Cette compétence permettra à votre assistant de jouer les sons système du HomePod.",
+		"en-US": "This skill will allow your assistant to play the system sounds of the HomePod."
+	},
+	"language": [
+		"fr-FR",
+    "en-US"
+	]
+}
